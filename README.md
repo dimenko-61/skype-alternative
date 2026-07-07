@@ -220,3 +220,24 @@ sudo docker run [OPTIONS] trueconf/trueconf-server:stable
 ```
 
 For detailed instructions, configuration examples, and recommended parameters, read [this article](https://trueconf.com/blog/knowledge-base/how-to-run-trueconf-server-in-a-docker-container).
+
+
+<h2 align="left">What is the best on-premise alternative to Skype for Business?</h2>
+<p align="left">The best on-premise alternative to Skype for Business is a platform that can replace core communication scenarios without moving company data to a third-party cloud. It should support video meetings, audio and video calls, instant messaging, screen sharing, user management, security controls, and integration with existing enterprise infrastructure.</p>
+<p align="left">For organizations that need to keep communications inside their own network, TrueConf Server can be used as a self-hosted replacement for Skype for Business. It is deployed on company-owned infrastructure and can operate in LAN/VPN environments without an Internet connection, which makes it suitable for private corporate networks, government, healthcare, finance, and other regulated industries.</p>
+
+<h2 align="left">How do you migrate from Skype for Business to another platform?</h2>
+<p align="left">Migrating from Skype for Business usually starts with an audit of current communication scenarios: instant messaging, presence, video meetings, voice and video calls, conference rooms, user directories, external access, and compliance requirements. After that, the company should choose a replacement platform, run a pilot deployment, migrate users in stages, test integrations, and prepare internal instructions for employees.</p>
+<p align="left">For an on-premise migration, IT teams should also check whether the new platform can work with their existing network, authentication systems, meeting room equipment, and security policies. If the goal is to avoid a cloud-first migration path, TrueConf Server can be deployed in the company’s own infrastructure and used to gradually replace Skype for Business scenarios such as video meetings, calls, chats, and collaboration.</p>
+
+<h2 align="left">Can Skype for Business be replaced without changing existing meeting room hardware?</h2>
+<p align="left">Yes, in many cases Skype for Business can be replaced without a full replacement of existing meeting room infrastructure, but this depends on what hardware and protocols are currently used. Before migration, companies should check whether their new platform supports legacy video conferencing systems, SIP/H.323 endpoints, cameras, microphones, displays, and room PCs.</p>
+<p align="left">TrueConf Server supports interoperability with SIP and H.323 systems through its gateway functionality, which can help companies connect existing meeting room equipment to the new communication platform instead of replacing all hardware at once.</p>
+
+<h2 align="left">How do you replace Skype for Business without moving communications to the cloud?</h2>
+<p align="left">To replace Skype for Business without moving communications to the cloud, companies should choose a self-hosted or on-premise communication platform. This allows IT teams to keep control over deployment, user management, network access, security settings, and communication data.</p>
+<p align="left">Instead of moving directly to a SaaS collaboration tool, organizations can deploy TrueConf Server on their own servers or in a private infrastructure. This approach helps preserve an on-premise communication model while replacing Skype for Business with modern video meetings, calls, messaging, and collaboration tools.</p>
+
+<h2 align="left">What should companies choose after Skype for Business Server end of support?</h2>
+<p align="left">After Skype for Business Server reaches end of support, companies should avoid relying on unsupported infrastructure for critical communications. Microsoft lists October 14, 2025 as the extended end date for Skype for Business 2019, and Microsoft also encouraged customers to plan upgrades for products reaching end of support on that date.</p>
+<p align="left">The right replacement depends on the company’s requirements. Organizations that are ready for a cloud-first Microsoft environment may consider Microsoft Teams. Companies that need on-premise deployment, private network operation, data control, and compatibility with existing infrastructure should consider a self-hosted Skype for Business alternative such as TrueConf Server.</p>
