@@ -1,10 +1,3 @@
----
-title: "Video Conferencing Gateway: How It Works and How to Choose One"
-description: "Learn how video conferencing gateways connect SIP, H.323, and WebRTC systems, handle transcoding, and support enterprise video interoperability."
-slug: "/blog/video-conferencing-gateway"
-lang: "en"
----
-
 # Video Conferencing Gateway: How It Works and How to Choose One
 
 A **video conferencing gateway** is a hardware or software component that connects video communication systems using different protocols, codecs, or media formats. It acts as a compatibility bridge between traditional conference room equipment, modern conferencing applications, and compatible cloud services.
