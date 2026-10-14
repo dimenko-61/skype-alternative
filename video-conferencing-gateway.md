@@ -104,14 +104,7 @@ Replacing the room equipment immediately could require capital expenditure, new 
 
 A typical connection might look like this:
 
-```text
-Headquarters: H.323 room endpoint ---\
-                                    \
-Regional office: SIP room endpoint --- [Conferencing server + gateway]
-                                    /               |
-Remote staff: desktop/web clients --/                |
-                                         Shared hybrid conference
-```
+
 
 The H.323 and SIP terminals establish standards-based connections. Remote employees join through whichever client connections the conferencing server supports. The server manages participants and layouts, while its gateway handles incompatible signaling and media when needed.
 
